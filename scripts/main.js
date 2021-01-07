@@ -1,0 +1,1 @@
+window,window.onload=function(){let o=document.getElementById("backTop");o&&o.addEventListener("click",o=>{o.preventDefault(),window.scrollTo({top:0,behavior:"smooth"})})};
